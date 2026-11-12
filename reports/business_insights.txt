@@ -1,0 +1,124 @@
+# BUSINESS SALES PERFORMANCE ANALYSIS – 2025
+## Future Interns – Data Science & Analytics Internship
+### Task 1 – FUTURE_DS_01
+
+## 1. Project Overview
+
+The objective of this project is to analyze business sales performance, identify revenue trends, understand regional and category-wise performance, and identify the top-selling products.
+
+The project uses Python for data analysis and Power BI for interactive dashboard visualization.
+
+**Tools Used:**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Power BI
+
+**Dataset:** Sample/Synthetic Sales Dataset
+
+## 2. Key Performance Indicators
+
+The dashboard highlights the following business KPIs:
+
+| Metric | Result |
+|---|---:|
+| Total Revenue | 11.14M |
+| Total Profit | 2.94M |
+| Average Order Value | 9.29K |
+| Total Quantity Sold | 1,200 |
+| Total Orders | 1,200 |
+
+## 3. Key Business Insights
+
+### A. Revenue by Region
+
+- South region generated the highest revenue of approximately 2.9M.
+- North region generated approximately 2.8M.
+- West region contributed approximately 2.1M.
+- East region generated approximately 1.8M.
+- Central region generated approximately 1.5M.
+
+**Insight:** South and North are the leading revenue-generating regions, while Central has the lowest revenue contribution.
+
+**Recommendation:** Focus on improving sales and marketing strategies in the Central and East regions.
+
+### B. Revenue by Category
+
+- Furniture generated approximately 5.1M.
+- Electronics generated approximately 4.6M.
+- Accessories generated approximately 1.1M.
+- Office Supplies generated approximately 0.4M.
+
+**Insight:** Furniture is the highest revenue-generating category, followed by Electronics.
+
+**Recommendation:** Maintain strong inventory and marketing support for Furniture and Electronics while exploring opportunities to improve the performance of Office Supplies.
+
+### C. Revenue by Sales Channel
+
+- Online sales contributed approximately 6.1M.
+- Retail sales contributed approximately 3.3M.
+- Distributor sales contributed approximately 1.8M.
+
+**Insight:** Online is the strongest sales channel and contributes the largest share of total revenue.
+
+**Recommendation:** Strengthen online sales strategies and improve digital customer engagement.
+
+### D. Monthly Revenue Trend
+
+The monthly revenue analysis shows variations throughout 2025.
+
+- February revenue was approximately 1.05M.
+- June recorded approximately 1.14M.
+- July generated approximately 1.10M.
+- September generated approximately 1.06M.
+- May recorded the lowest revenue at approximately 0.72M.
+
+**Insight:** June recorded the highest monthly revenue, while May recorded the lowest.
+
+**Recommendation:** Analyze the reasons behind monthly fluctuations and plan promotional campaigns during lower-performing months.
+
+### E. Top 10 Products by Revenue
+
+The highest revenue-generating products include:
+
+1. Monitor – 3.2M
+2. Study Table – 2.2M
+3. Office Chair – 1.8M
+4. Bookshelf – 1.1M
+5. Headphones – 0.6M
+6. Webcam – 0.5M
+7. Keyboard – 0.5M
+8. Laptop Bag – 0.4M
+9. USB Hub – 0.3M
+10. Wireless Mouse – 0.3M
+
+**Insight:** Monitor, Study Table, and Office Chair are the leading products by revenue.
+
+**Recommendation:** Focus on maintaining the availability of high-performing products and explore cross-selling opportunities.
+
+## 4. Dashboard Features
+
+The Power BI dashboard includes:
+
+- KPI cards for business performance.
+- Regional revenue comparison.
+- Category-wise revenue analysis.
+- Sales channel comparison.
+- Monthly revenue trend.
+- Top 10 products by revenue.
+- Interactive filters for Category, Region, and Month.
+
+## 5. Conclusion
+
+The Business Sales Performance Analysis provides insights into revenue, profit, product performance, regional contributions, and sales channels.
+
+The analysis identifies South as the leading region, Furniture as the top revenue-generating category, and Online as the strongest sales channel.
+
+These insights can support better business decisions, sales planning, inventory management, and marketing strategies.
+
+## 6. Dataset Limitation
+
+This project uses a sample/synthetic dataset for demonstration and analytical practice. The findings should not be interpreted as actual business performance figures.
+
+**Project Status:** Python analysis and Power BI dashboard completed.
